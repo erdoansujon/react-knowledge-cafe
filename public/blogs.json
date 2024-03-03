@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_pic": "https://ibb.co/RDVvrLk",
+      "title": "The Art of Programming",
+      "author": "John Smith",
+      "author_img": "https://ibb.co/tzFWFpN",
+      "posted_date": "2024-03-03",
+      "reading_time": "30 minutes",
+      "hashtags": ["programming", "coding", "development"]
+    },
+    {
+      "id": 2,
+      "cover_pic": "https://ibb.co/xzsK1Zc",
+      "title": "Exploring the Universe",
+      "author": "Alice Johnson",
+      "author_img": "https://ibb.co/3zmqbPH",
+      "posted_date": "2024-03-02",
+      "reading_time": "45 minutes",
+      "hashtags": ["space", "astronomy", "cosmology"]
+    },
+    {
+      "id": 3,
+      "cover_pic": "https://ibb.co/z4DrHt1",
+      "title": "The Art of Cooking",
+      "author": "Emma White",
+      "author_img": "https://ibb.co/d4fYb9t",
+      "posted_date": "2024-02-28",
+      "reading_time": "20 minutes",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 4,
+      "cover_pic": "https://ibb.co/p3TmH4b",
+      "title": "Digital Marketing Strategies",
+      "author": "Michael Brown",
+      "author_img": "https://ibb.co/8496M5R",
+      "posted_date": "2024-02-25",
+      "reading_time": "35 minutes",
+      "hashtags": ["marketing", "digital", "strategy"]
+    },
+    {
+      "id": 5,
+      "cover_pic": "https://ibb.co/1QGYq66",
+      "title": "Mindfulness and Meditation",
+      "author": "Sophia Lee",
+      "author_img": "https://ibb.co/s1Jhy82",
+      "posted_date": "2024-02-20",
+      "reading_time": "25 minutes",
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    }
+  ]
+  
